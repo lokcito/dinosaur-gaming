@@ -1,0 +1,143 @@
+{"frames": {
+
+"ArrowSign.png":
+{
+	"frame": {"x":0,"y":76,"w":86,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":87},
+	"sourceSize": {"w":86,"h":87},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Bone_01.png":
+{
+	"frame": {"x":0,"y":182,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Bone_02.png":
+{
+	"frame": {"x":128,"y":182,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Bone_03.png":
+{
+	"frame": {"x":256,"y":182,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Bone_04.png":
+{
+	"frame": {"x":0,"y":310,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Bush_01.png":
+{
+	"frame": {"x":86,"y":76,"w":182,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":90},
+	"sourceSize": {"w":182,"h":90},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Bush_02.png":
+{
+	"frame": {"x":156,"y":0,"w":100,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":64},
+	"sourceSize": {"w":100,"h":64},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Crate.png":
+{
+	"frame": {"x":359,"y":76,"w":106,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":106},
+	"sourceSize": {"w":106,"h":106},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"DeadBush.png":
+{
+	"frame": {"x":256,"y":0,"w":132,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":132,"h":74},
+	"sourceSize": {"w":132,"h":74},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Sign.png":
+{
+	"frame": {"x":268,"y":76,"w":91,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":93},
+	"sourceSize": {"w":91,"h":93},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Skeleton.png":
+{
+	"frame": {"x":0,"y":0,"w":102,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":50},
+	"sourceSize": {"w":102,"h":50},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"TombStone_01.png":
+{
+	"frame": {"x":102,"y":0,"w":54,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":55},
+	"sourceSize": {"w":54,"h":55},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"TombStone_02.png":
+{
+	"frame": {"x":388,"y":0,"w":53,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":76},
+	"sourceSize": {"w":53,"h":76},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Tree.png":
+{
+	"frame": {"x":128,"y":310,"w":286,"h":239},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":286,"h":239},
+	"sourceSize": {"w":286,"h":239},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+	"Bone": ["Bone_01.png","Bone_02.png","Bone_03.png","Bone_04.png"],
+	"Bush": ["Bush_01.png","Bush_02.png"],
+	"TombStone": ["TombStone_01.png","TombStone_02.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "https://cdn.glitch.com/733f2d41-6802-4698-b12f-76e123adfd7f%2Fobjects.png?v=1592942069146",
+	"format": "RGBA8888",
+	"size": {"w":465,"h":549},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:84a7290c6bfde0bbac187acf55b88a1e:25ea3f269650e844d4e50bd4c7c6b3fa:8d6d12ff4d5234f2a4b19e0a906dbf52$"
+}
+}

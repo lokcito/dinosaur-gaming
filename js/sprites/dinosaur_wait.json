@@ -1,0 +1,95 @@
+{"frames": {
+
+"wait_01.png":
+{
+	"frame": {"x":0,"y":0,"w":480,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":600},
+	"sourceSize": {"w":480,"h":600}
+},
+"wait_02.png":
+{
+	"frame": {"x":480,"y":0,"w":480,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":600},
+	"sourceSize": {"w":480,"h":600}
+},
+"wait_03.png":
+{
+	"frame": {"x":960,"y":0,"w":480,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":600},
+	"sourceSize": {"w":480,"h":600}
+},
+"wait_04.png":
+{
+	"frame": {"x":1440,"y":0,"w":480,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":600},
+	"sourceSize": {"w":480,"h":600}
+},
+"wait_05.png":
+{
+	"frame": {"x":0,"y":600,"w":480,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":600},
+	"sourceSize": {"w":480,"h":600}
+},
+"wait_06.png":
+{
+	"frame": {"x":480,"y":600,"w":480,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":600},
+	"sourceSize": {"w":480,"h":600}
+},
+"wait_07.png":
+{
+	"frame": {"x":960,"y":600,"w":480,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":600},
+	"sourceSize": {"w":480,"h":600}
+},
+"wait_08.png":
+{
+	"frame": {"x":1440,"y":600,"w":480,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":600},
+	"sourceSize": {"w":480,"h":600}
+},
+"wait_09.png":
+{
+	"frame": {"x":0,"y":1200,"w":480,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":600},
+	"sourceSize": {"w":480,"h":600}
+},
+"wait_10.png":
+{
+	"frame": {"x":480,"y":1200,"w":480,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":600},
+	"sourceSize": {"w":480,"h":600}
+}},
+"animations": {
+	"wait": ["wait_01.png","wait_02.png","wait_03.png","wait_04.png","wait_05.png","wait_06.png","wait_07.png","wait_08.png","wait_09.png","wait_10.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "https://cdn.glitch.com/733f2d41-6802-4698-b12f-76e123adfd7f%2Fdinosaur_wait.png?v=1592890777373",
+	"format": "RGBA8888",
+	"size": {"w":1920,"h":1800},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a1a2ab597785cbf870a61b90ba0e3201:4a73139c8dee66f533f5fe7d6f89459c:b2315af4f958e516244426efba94f71f$"
+}
+}

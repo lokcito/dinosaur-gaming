@@ -1,0 +1,105 @@
+{"frames": {
+
+"walk_01.png":
+{
+	"frame": {"x":0,"y":0,"w":480,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":600},
+	"sourceSize": {"w":480,"h":600},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"walk_02.png":
+{
+	"frame": {"x":480,"y":0,"w":480,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":600},
+	"sourceSize": {"w":480,"h":600},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"walk_03.png":
+{
+	"frame": {"x":960,"y":0,"w":480,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":600},
+	"sourceSize": {"w":480,"h":600},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"walk_04.png":
+{
+	"frame": {"x":1440,"y":0,"w":480,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":600},
+	"sourceSize": {"w":480,"h":600},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"walk_05.png":
+{
+	"frame": {"x":0,"y":600,"w":480,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":600},
+	"sourceSize": {"w":480,"h":600},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"walk_06.png":
+{
+	"frame": {"x":480,"y":600,"w":480,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":600},
+	"sourceSize": {"w":480,"h":600},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"walk_07.png":
+{
+	"frame": {"x":960,"y":600,"w":480,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":600},
+	"sourceSize": {"w":480,"h":600},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"walk_08.png":
+{
+	"frame": {"x":1440,"y":600,"w":480,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":600},
+	"sourceSize": {"w":480,"h":600},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"walk_09.png":
+{
+	"frame": {"x":0,"y":1200,"w":480,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":600},
+	"sourceSize": {"w":480,"h":600},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"walk_10.png":
+{
+	"frame": {"x":480,"y":1200,"w":480,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":600},
+	"sourceSize": {"w":480,"h":600},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+	"walk": ["walk_01.png","walk_02.png","walk_03.png","walk_04.png","walk_05.png","walk_06.png","walk_07.png","walk_08.png","walk_09.png","walk_10.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "https://cdn.glitch.com/733f2d41-6802-4698-b12f-76e123adfd7f%2Fdinosaur_walk.png?v=1592889197435",
+	"format": "RGBA8888",
+	"size": {"w":1920,"h":1800},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:923242a0a94bcbe3581c417a64b1a31b:b1acade815b3aec24a7070eac52d3fda:f9b130cb028d54cfa0d1483b9c619790$"
+}
+}

@@ -1,0 +1,33 @@
+{"frames": {
+
+"lava_01.png":
+{
+	"frame": {"x":0,"y":0,"w":640,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":130},
+	"sourceSize": {"w":640,"h":130},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"lava_02.png":
+{
+	"frame": {"x":0,"y":130,"w":640,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":130},
+	"sourceSize": {"w":640,"h":130},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+	"lava": ["lava_01.png","lava_02.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "https://cdn.glitch.com/733f2d41-6802-4698-b12f-76e123adfd7f%2Flava.png?v=1592940428418",
+	"format": "RGBA8888",
+	"size": {"w":640,"h":260},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b7967e985133b4a4c754d086eda33883:a20fdd8dab899171b3885f469d7c674d:503f814092bfc3f43d57cf21c8c9d0ad$"
+}
+}
